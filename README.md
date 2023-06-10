@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/5hojib/luna">
+    <a href="https://github.com/5hojib/Luna">
         <kbd>
             <img width="250" src="https://github.com/5hojib/cdn/raw/main/purple-flowers-dark-background.jpg" alt="Flowers pic">
         </kbd>
